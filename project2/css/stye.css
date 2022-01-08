@@ -168,3 +168,15 @@ span.number {
     color: #FFFFFF;
     padding: 19px 23px 20.6px 22px;
 }
+
+
+@media screen and (max-width: 440px) {
+nav{
+ display: none;
+}
+
+.button-one{
+ display: none;
+}
+}
+
